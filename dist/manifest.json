@@ -1,0 +1,16 @@
+{
+  "short_name": "Feather Note",
+  "name": "Feather Note - New Tab Notepad",
+  "icons": {
+    "64": "images/favicon.ico"
+  },
+  "browser_action": {
+    "default_icon": "images/favicon.ico",
+    "default_popup": "popup.html"
+  },
+  "manifest_version": 2,
+  "version": "0.01",
+  "chrome_url_overrides" : {
+    "newtab": "popup.html"
+  }
+}
