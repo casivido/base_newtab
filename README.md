@@ -1,3 +1,5 @@
+This is a jumping off point for developing a new Chromoe Extension, pre-packed with React.
+
 ### Installation
 
 1. Clone Repo
